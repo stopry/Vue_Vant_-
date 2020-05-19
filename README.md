@@ -42,3 +42,21 @@ $ yarn build or npm run build
 
 >  本项目会不定期更新完善 @auther 809746561@qq.com
 
+
+
+# 部分截图
+
+
+
+<img src="http://qny.stopry.com/red_bag_agent.png" width="365" height="auto"/>
+<br/><br/>
+<img src="http://qny.stopry.com/red_bag_create.png" width="365" height="auto"/>
+<br/><br/>
+<img src="http://qny.stopry.com/red_bag_dating.png" width="365" height="auto"/>
+<br/><br/>
+<img src="http://qny.stopry.com/red_bag_game.png" width="365" height="auto"/>
+<br/><br/>
+<img src="http://qny.stopry.com/red_bag_house.png" width="365" height="auto"/>
+<br/><br/>
+<img src="http://qny.stopry.com/red_bag_open.png" width="365" height="auto"/>
+<br/><br/>
