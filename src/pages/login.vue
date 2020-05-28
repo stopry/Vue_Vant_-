@@ -29,7 +29,7 @@ export default {
   data() {
     return {
       loginData:{
-        account:'4040',
+        account:'13855418476',
         password:'123456'
       }
     }

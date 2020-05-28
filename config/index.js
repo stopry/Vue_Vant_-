@@ -39,7 +39,14 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       "/api":{
-        target: 'http://dfhhb1.0001wan.com',  //目标接口域名
+        target: 'http://qhb.stopry.com',  //目标接口域名
+        changeOrigin: true,  //是否跨域
+        pathRewrite: {
+          // '^/api': '/api'   //重写接口
+        }
+      },
+      "/upload":{
+        target: 'http://qhbapi.stopry.com',  //文件上传接口
         changeOrigin: true,  //是否跨域
         pathRewrite: {
           // '^/api': '/api'   //重写接口
@@ -85,7 +92,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/',// /为绝对路径 不加为相对路径
 
     /**
      * Source Maps

@@ -1,5 +1,5 @@
 const $ws = {
-  link: 'ws://47.56.83.240:1161/',
+  link: 'ws://106.15.203.19:1161/',
   isConnect: false,
   connectTimes: 0,//websocket连接次数
   reConnectTimes: 0,//重连次数 大于三次不做处理 跳回登陆界面

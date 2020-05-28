@@ -43,6 +43,9 @@ $ yarn build or npm run build
 >  本项目会不定期更新完善 @auther 809746561@qq.com
 
 
+# 线上预览地址
+http://qhb.stopry.com/index
+
 
 # 部分截图
 
