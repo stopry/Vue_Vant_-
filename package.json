@@ -19,7 +19,7 @@
     "postcss-px2rem-exclude": "^0.0.6",
     "px2rem-loader": "^0.1.9",
     "qrcode": "^1.4.4",
-    "vant": "^1.1.10",
+    "vant": "^2.1.8",
     "vconsole": "^3.2.0",
     "vue": "^2.5.2",
     "vue-lazyload": "^1.2.6",
